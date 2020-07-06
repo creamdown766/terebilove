@@ -1,0 +1,98 @@
+#EXTM3U
+
+#EXTINF:0 tvg-group="Thailand" tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="https://i.imgur.com/XXnVYFi.png" tvg-country="TH" tvg-url="" group-title="Thailand",TV 3 HD
+https://ch3-33-web.cdn.byteark.com/live/playlist_1080p/index.m3u8?x_ark_access_id=D78MkxZFEr5Zr9PE&x_ark_auth_type=ark-v2&x_ark_expires=1594055527&x_ark_path_prefix=%2Flive%2F&x_ark_signature=zxfNiKxxBa09lqcCWV-mYQ
+#EXTINF:0 tvg-group="Thailand" tvg-country="TH" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/th-amarin-34-hd-1962.jpg" group-title="Thailand",Amarin TV HD
+https://amarin-ks7jcc.cdn.byteark.com/live/playlist_720p/index.m3u8?x_ark_access_id=868&x_ark_auth_type=ark-v2&x_ark_expires=1594067774&x_ark_path_prefix=%2Flive%2F&x_ark_signature=EW6zFYZDiJB1alzJa4965g
+#EXTINF:0 tvg-group="Thailand" tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="https://i.imgur.com/b4l0w2m.png" tvg-country="TH" tvg-url="" group-title="Thailand",Thai PBS 3 Full HD
+http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+#EXTINF:0 tvg-group="Thailand" tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="https://i.imgur.com/b4l0w2m.png" tvg-country="TH" tvg-url="" group-title="Thailand",Thai PBS 3 HD
+http://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
+#EXTINF:0 tvg-group="Thailand" tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="https://i.imgur.com/QTCQ4uT.jpg" tvg-country="TH" tvg-url="" group-title="Thailand",MCOT HD
+https://stream-02.sg1.dailymotion.com/sec(86G48EQSWKUUFPhHXEV5xl82HJOZ0grd9o5eov9nZRw)/dm/3/x74wlgj/s/live-4.m3u8
+#EXTINF:0 tvg-group="Thailand" tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="https://i.imgur.com/kW42rzh.png" tvg-country="TH" tvg-url="" group-title="Thailand",TV 5 HD
+http://110.170.117.27:1935/tv5hd1/vdo/chunklist_w1671146507.m3u8
+#EXTINF:0 tvg-group="Thailand" tvg-id="" tvg-name="" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/th-thai-channel-8-4825.jpg" tvg-country="TH" tvg-url="" group-title="Thailand",Thai Channel 8
+https://5b684377f3572.streamlock.net/desktop/ch8_720p/chunklist_w1197466873_tkb2FzZW5kdGltZT0xNTkzODQyMTg2Jm9hc2hhc2g9czFRM000TWxsdmVKbkVjM1k0XzhUcDJXSG5DSk9sQjZfS0JhZXlzcVI5QT0=.m3u8
+#EXTINF:0 tvg-group="Thailand" tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="https://i.imgur.com/QZ2WcZl.jpg" tvg-country="TH" tvg-url="" group-title="Thailand",NBT Bangkok
+http://live.prd.go.th:1935/live/ch1_L.sdp/chunklist.m3u8
+#EXTINF:0 tvg-group="Thailand" tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="https://i.imgur.com/Glr0CJE.png" tvg-country="TH" tvg-url="" group-title="Thailand",NBT Central Full HD
+http://live.prd.go.th:1935/live/ch9_L.sdp/chunklist.m3u8
+#EXTINF:0 tvg-group="Thailand" tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="https://i.imgur.com/J2U730J.png" tvg-country="TH" tvg-url="" group-title="Thailand",New18 HD
+https://stream-02.sg1.dailymotion.com/sec(SCEOt4M5U0fVbrIPRLL545HA1uKeNADCBikQQxKiZ40)/dm/3/x7kx5i7/s/live-4.m3u8
+#EXTINF:0 tvg-group="Thailand" tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://news1live.com/images/social-share-logo.png" tvg-country="TH" tvg-url="Thailand" group-title="Thailand",News 1 HD
+http://news1.live14.com/stream/news1_hi.m3u8
+#EXTINF:0 tvg-group="Thailand" tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://news1live.com/images/social-share-logo.png" tvg-country="TH" tvg-url="Thailand" group-title="Thailand",News 1 HD
+https://server1.streamssl.com/stream/news1_hi.m3u8
+#EXTINF:0 tvg-group="Thailand" tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="https://i.imgur.com/CQYsYBM.png" tvg-country="TH" tvg-url="" group-title="Thailand",ONE HD
+http://one31-0ougnj.cdn.byteark.com/live/playlist.m3u8
+#EXTINF:0 tvg-group="Thailand" tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/BBTV_Channel_7.png" tvg-country="TH" tvg-url="" group-title="Thailand",TV 7
+https://bcovlive-a.akamaihd.net/44cc55c80fef46a8baa3a405433e63b8/ap-southeast-1/5282994675001/profile_4/chunklist.m3u8
+#EXTINF:0 tvg-group="Thailand" tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="https://i.imgur.com/LpAUzO7.jpg" tvg-country="TH" tvg-url="" group-title="Thailand",Voice TV HD
+https://video-weaver.sin01.hls.ttvnw.net/v1/playlist/CosEwCYlkiMqHGSMLQkWItpbbJgiYWtXBRIDvnhVN9XeaZLhXj69UPy0licbZ2a_z5C7C3vCZw1NlU9mZTa3Y7mlOQDD26trNyHPz-kfLF5jTah2aN7fHG77orazHDQs-RJegHoTGe_TE3dOq4sv3NfeEZBBjTFxT_fCFMThklfvzbKvk9lFonMWgEDh3mHGk66YJhlhpgHxi-7CwV8FR7o8rw_wc_dP6R_jwVN8FcMY0-F4M_yBuhGJCaFHSYylCAQnQxsdY6Lg_iJ2fu6u-E3qjNu4z8tvxA9LPJx6u_kaw7v4NxIHQDR8njp8ElSnujZe4mf_SGP9au6aggdJapmQ9nNv-yN8U9SKWyTrBc5fpsM7usZQp-Dq7RB93fbdi5v1JPtGLQi2FZfRduC9TxdmcR5akP5v3mXwgZCuqp5ddz5tUfrGQUGzEhJh_n_BTAKV6knueGfS5ULVpF19HRUAiwhFO2dmscV2GwHNsftAqfwHKt8wtPuBEC3otOiNIPScg8YmueFOux6Z_2VNYTtH4Ub-2XJdn_MqoJWUs5CGcERDKAEbg19muf2TN5WhWebL_tOhScvUjkb7q2gDXd0DvdPeN-5j0tJ59EOOq0vUDn5qmKLVEwMP-T372Cs8-Bj7m7jaaF6-N_qrHyi_qHjpIsN-oQ4wASNrm_Uq6B5ytcaYFbOafDW4ZCYfPBIQRNgcX2UtpPv5ApnutWBrKxoMcrfwiayUv1dHLv5M.m3u8
+#EXTINF:0 tvg-group="Thailand" tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="https://i.imgur.com/0AiJcrC.png" tvg-country="TH" tvg-url="" group-title="",Thairath TV 32 HD
+https://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
+#EXTINF:0 tvg-group="Thailand" tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="https://i.imgur.com/iuOMQIQ.jpg" tvg-country="TH" tvg-url="" group-title="Thailand",Workpoint HD
+https://stream-02.sg1.dailymotion.com/sec(MuIaQwZ7oLftuFXhsi7R8i6Ui9PytI_ENIVV_vSD4zk)/dm/3/x6g9qjj/s/live-4.m3u8
+#EXTINF:-1 tvg-group="Malaysia" tvg-id="8TV" tvg-name="8TV" tvg-language="Chinese" tvg-logo="https://freeview.github.io/iptv/logos/8tv.png" tvg-country="MY" tvg-url="https://freeview.github.io/iptv/epg/tv.xml" group-title="Malaysia",8TV
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/8TV.m3u8
+#EXTINF:-1 tvg-group="Malaysia" tvg-id="Astro Awani" tvg-name="Astro Awani" tvg-language="" tvg-logo="https://i.imgur.com/dLzgBUj.png" tvg-country="MY" tvg-url="https://freeview.github.io/iptv/epg/tv.xml" group-title="Malaysia",Astro Awani
+https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/streamPlaylist.m3u8
+#EXTINF:-1 tvg-group="Malaysia" tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg" tvg-country="MY" tvg-url="" group-title="Malaysia",Berita RTM
+https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b2064000.m3u8
+#EXTINF:-1 tvg-group="Malaysia" tvg-id="NTV7" tvg-name="NTV7" tvg-language="" tvg-logo="https://freeview.github.io/iptv/logos/ntv7.png" tvg-country="MY" tvg-url="https://freeview.github.io/iptv/epg/tv.xml" group-title="Malaysia",NTV7
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/NTV7.m3u8
+#EXTINF:-1 tvg-group="Malaysia" tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.livenewsmag.com/wp-content/uploads/2017/01/RTM-TV-2-300x163.jpg" tvg-country="MY" tvg-url="" group-title="Malaysia",RTM 2
+https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
+#EXTINF:-1 tvg-group="Malaysia" tvg-id="OKEY" tvg-name="OKEY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/TV_Okey_RTM.png" tvg-country="MY" tvg-url="https://freeview.github.io/iptv/epg/tv.xml" group-title="Malaysia",RTM Okey
+https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
+#EXTINF:-1 tvg-group="Malaysia" tvg-id="TV9" tvg-name="TV9" tvg-language="" tvg-logo="https://freeview.github.io/iptv/logos/tv9.png" tvg-country="MY" tvg-url="https://freeview.github.io/iptv/epg/tv.xml" group-title="Malaysia",TV9
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV9.m3u8
+#EXTINF:-1 tvg-group="News" tvg-logo="https://freeview.github.io/iptv/logos/cgtn.png" group-title="News",CGTN
+https://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:-1 tvg-group="News" tvg-logo="https://freeview.github.io/iptv/logos/trtworld.png" group-title="News",TRT World HD
+https://tv-trtworld.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-group="News" tvg-logo="https://freeview.github.io/iptv/logos/aljazeera.png" group-title="News",Al Jazeera HD
+https://live-hls-web-aje.getaj.net/AJE/02.m3u8
+#EXTINF:-1 tvg-group="News" tvg-logo="https://freeview.github.io/iptv/logos/arirang.png" group-title="Korea",Arirang TV HD
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+#EXTINF:0 tvg-group="News" tvg-country="SG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png" group-title="News",CNA HD
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:0 tvg-group="News" tvg-country="SG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png" group-title="News",CNA HD
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:0 tvg-group="Singapore" tvg-country="SG" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/64/20171222_084212.jpg" group-title="Singapore",Channel 5
+https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
+#EXTINF:0 tvg-group="Singapore" tvg-country="SG" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/64/20171222_084212.jpg" group-title="Singapore",Channel 5
+https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master.m3u8
+#EXTINF:0 tvg-group="Singapore" tvg-country="SG" tvg-logo="https://images.mypadtv.com/hd8.jpg" group-title="Singapore",Channel 8
+https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
+#EXTINF:0 tvg-group="Singapore" tvg-country="SG" tvg-logo="https://images.mypadtv.com/hd8.jpg" group-title="Singapore",Channel 8
+https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master.m3u8
+#EXTINF:0 tvg-group="Singapore" tvg-country="SG" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/ff/CH_U_2015.png" group-title="Singapore",Channel U
+https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8
+#EXTINF:0 tvg-group="Singapore" tvg-country="SG" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/ff/CH_U_2015.png" group-title="Singapore",Channel U
+https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master.m3u8
+#EXTINF:0 tvg-group="Chinese/HK" tvg-country="HK" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/8/80/ATV_A1_logo.jpg/300px-ATV_A1_logo.jpg" group-title="Chinese/Hong Kong",A1 HK
+https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo.m3u8
+#EXTINF:0 tvg-group="Chinese/HK" tvg-country="HK" tvg-logo="https://www.starhub.com/content/dam/starhub/2015/TV/TV-Channel/800-chinese/805-phoenixchinese.png" group-title="Chinese/Hong Kong",Phoenix Chinese HD
+http://117.169.120.138:8080/live/fhchinese/index.m3u8
+#EXTINF:0 tvg-group="Chinese/HK" tvg-country="HK" tvg-logo="https://www.starhub.com/content/dam/starhub/2015/TV/TV-Channel/800-chinese/805-phoenixchinese.png" group-title="Chinese/Hong Kong",Phoenix InfoNews HD
+http://117.169.120.138:8080/live/fhzixun/.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-group="Chinese/HK" tvg-country="HK" tvg-logo="https://www.starhub.com/content/dam/starhub/2015/TV/TV-Channel/800-chinese/805-phoenixchinese.png" group-title="Chinese/Hong Kong",Phoenix Hong Kong HD
+http://192.154.103.75:8080//ZZ_fenghuangxianggang/ZZ_fenghuangxianggang.m3u8
+#EXTINF:0 tvg-group="Chinese/HK" tvg-country="HK" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a9/Cabletv_fn_logo.jpg" group-title="Chinese/Hong Kong",HK i-CABLE Finance Info
+https://ottproxy2.mott.tv/livehls/MOB-NGW/01.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-group="Chinese/HK" tvg-country="HK" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/09/TDM-Macau_Sat%C3%A9llite.png" group-title="Chinese/Hong Kong",MACAU
+http://live4.tdm.com.mo:80/ch3/_definst_/ch3.live/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-group="Chinese/HK" tvg-country="HK" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9b/TDM_Ou_Mun.png" group-title="Chinese/Hong Kong",Macao Information
+http://live4.tdm.com.mo:80/ch1/_definst_/ch1.live/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-group="Chinese/HK" tvg-country="HK" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9d/TDM_Informa%C3%A7%C3%A3o.jpg" group-title="Chinese/Hong Kong",Macao Information
+http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-group="Chinese/HK" tvg-country="HK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Hong_Kong_Open_TV.png" group-title="Chinese/Hong Kong",HKSTV-HKS
+http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-group="Chinese/HK" tvg-country="HK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Hong_Kong_Open_TV.png" group-title="Chinese/Hong Kong",HKSTV-HKS
+http://media.fantv.hk/m3u8/archive/channel2.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-group="Japan" tvg-group="News" tvg-logo="https://freeview.github.io/iptv/logos/nhkworldjp.png" group-title="Japan",NHK World Japan
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_2M.m3u8
+#EXTINF:0 tvg-group="Japan" tvg-country="JP" tvg-logo="https://i.imgur.com/SQISXoD.jpg" group-title="Japan",NHK Chinese
+https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8?checkedby:iptvcat.com
