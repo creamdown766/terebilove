@@ -1,9 +1,9 @@
 #EXTM3U
 
 #EXTINF:0 tvg-group="Thailand" tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="https://i.imgur.com/XXnVYFi.png" tvg-country="TH" tvg-url="" group-title="Thailand",TV 3 HD
-https://ch3-33-web.cdn.byteark.com/live/playlist_1080p/index.m3u8?x_ark_access_id=D78MkxZFEr5Zr9PE&x_ark_auth_type=ark-v2&x_ark_expires=1594055527&x_ark_path_prefix=%2Flive%2F&x_ark_signature=zxfNiKxxBa09lqcCWV-mYQ
+https://ch3-33-web.cdn.byteark.com/live/playlist_1080p/index.m3u8?x_ark_access_id=D78MkxZFEr5Zr9PE&x_ark_auth_type=ark-v2&x_ark_expires=1594137482&x_ark_path_prefix=%2Flive%2F&x_ark_signature=t9IsfPviTadmzI2R5vNDbg
 #EXTINF:0 tvg-group="Thailand" tvg-country="TH" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/th-amarin-34-hd-1962.jpg" group-title="Thailand",Amarin TV HD
-https://amarin-ks7jcc.cdn.byteark.com/live/playlist_720p/index.m3u8?x_ark_access_id=868&x_ark_auth_type=ark-v2&x_ark_expires=1594067774&x_ark_path_prefix=%2Flive%2F&x_ark_signature=EW6zFYZDiJB1alzJa4965g
+https://amarin-ks7jcc.cdn.byteark.com/live/playlist_720p/index.m3u8?x_ark_access_id=868&x_ark_auth_type=ark-v2&x_ark_expires=1594187785&x_ark_path_prefix=%2Flive%2F&x_ark_signature=nc_FOpeaYhrlK_DJhkh3Bw
 #EXTINF:0 tvg-group="Thailand" tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="https://i.imgur.com/b4l0w2m.png" tvg-country="TH" tvg-url="" group-title="Thailand",Thai PBS 3 Full HD
 http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 #EXTINF:0 tvg-group="Thailand" tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="https://i.imgur.com/b4l0w2m.png" tvg-country="TH" tvg-url="" group-title="Thailand",Thai PBS 3 HD
