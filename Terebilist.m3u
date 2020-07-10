@@ -3,7 +3,7 @@
 #EXTINF:0 tvg-group="Thailand" tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="https://i.imgur.com/XXnVYFi.png" tvg-country="TH" tvg-url="" group-title="Thailand",TV 3 HD
 https://ch3-33-web.cdn.byteark.com/live/playlist_1080p/index.m3u8?x_ark_access_id=D78MkxZFEr5Zr9PE&x_ark_auth_type=ark-v2&x_ark_expires=1594227239&x_ark_path_prefix=%2Flive%2F&x_ark_signature=DSUSOfnDjLPhEu5ncJ86-A
 #EXTINF:0 tvg-group="Thailand" tvg-country="TH" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/th-amarin-34-hd-1962.jpg" group-title="Thailand",Amarin TV HD
-https://amarin-ks7jcc.cdn.byteark.com/live/playlist_720p/index.m3u8?x_ark_access_id=868&x_ark_auth_type=ark-v2&x_ark_expires=1594367797&x_ark_path_prefix=%2Flive%2F&x_ark_signature=iBuMH1fXnsDfwhzeRSRQzA
+https://amarin-ks7jcc.cdn.byteark.com/live/playlist_720p/index.m3u8?x_ark_access_id=868&x_ark_auth_type=ark-v2&x_ark_expires=1594427807&x_ark_path_prefix=%2Flive%2F&x_ark_signature=g_nnEGSPAg879zOVoaWd3w
 #EXTINF:0 tvg-group="Thailand" tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="https://i.imgur.com/b4l0w2m.png" tvg-country="TH" tvg-url="" group-title="Thailand",Thai PBS 3 Full HD
 http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 #EXTINF:0 tvg-group="Thailand" tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="https://i.imgur.com/b4l0w2m.png" tvg-country="TH" tvg-url="" group-title="Thailand",Thai PBS 3 HD
