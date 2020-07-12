@@ -1,9 +1,9 @@
 #EXTM3U
 
 #EXTINF:0 tvg-group="Thailand" tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="https://i.imgur.com/XXnVYFi.png" tvg-country="TH" tvg-url="" group-title="Thailand",TV 3 HD
-https://ch3-33-web.cdn.byteark.com/live/playlist_1080p/index.m3u8?x_ark_access_id=D78MkxZFEr5Zr9PE&x_ark_auth_type=ark-v2&x_ark_expires=1594227239&x_ark_path_prefix=%2Flive%2F&x_ark_signature=DSUSOfnDjLPhEu5ncJ86-A
+https://ch3-33-web.cdn.byteark.com/live/playlist_1080p/index.m3u8?x_ark_access_id=D78MkxZFEr5Zr9PE&x_ark_auth_type=ark-v2&x_ark_expires=1594567851&x_ark_path_prefix=%2Flive%2F&x_ark_signature=ygROsZcJPkQL_Hr8Yl4p5A
 #EXTINF:0 tvg-group="Thailand" tvg-country="TH" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/th-amarin-34-hd-1962.jpg" group-title="Thailand",Amarin TV HD
-https://amarin-ks7jcc.cdn.byteark.com/live/playlist_720p/index.m3u8?x_ark_access_id=868&x_ark_auth_type=ark-v2&x_ark_expires=1594427807&x_ark_path_prefix=%2Flive%2F&x_ark_signature=g_nnEGSPAg879zOVoaWd3w
+https://amarin-ks7jcc.cdn.byteark.com/live/playlist_720p/1249556.ts?x_ark_access_id=868&x_ark_auth_type=ark-v2&x_ark_expires=1594607833&x_ark_path_prefix=%2Flive%2F&x_ark_signature=Qjo50ejEhHoWi_mGo5T-sg
 #EXTINF:0 tvg-group="Thailand" tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="https://i.imgur.com/b4l0w2m.png" tvg-country="TH" tvg-url="" group-title="Thailand",Thai PBS 3 Full HD
 http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 #EXTINF:0 tvg-group="Thailand" tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="https://i.imgur.com/b4l0w2m.png" tvg-country="TH" tvg-url="" group-title="Thailand",Thai PBS 3 HD
@@ -33,7 +33,7 @@ https://video-weaver.sin01.hls.ttvnw.net/v1/playlist/CosEwCYlkiMqHGSMLQkWItpbbJg
 #EXTINF:0 tvg-group="Thailand" tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="https://i.imgur.com/0AiJcrC.png" tvg-country="TH" tvg-url="" group-title="",Thairath TV 32 HD
 https://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
 #EXTINF:0 tvg-group="Thailand" tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="https://i.imgur.com/iuOMQIQ.jpg" tvg-country="TH" tvg-url="" group-title="Thailand",Workpoint HD
-https://stream-02.sg1.dailymotion.com/sec(MuIaQwZ7oLftuFXhsi7R8i6Ui9PytI_ENIVV_vSD4zk)/dm/3/x6g9qjj/s/live-4.m3u8
+https://stream-03.sg1.dailymotion.com/sec(MuIaQwZ7oLftuFXhsi7R8rPnzMx8K5-t9lzUq90OOOc)/dm/3/x6g9qjj/s/live-4.m3u8
 #EXTINF:-1 tvg-group="Malaysia" tvg-id="8TV" tvg-name="8TV" tvg-language="Chinese" tvg-logo="https://freeview.github.io/iptv/logos/8tv.png" tvg-country="MY" tvg-url="https://freeview.github.io/iptv/epg/tv.xml" group-title="Malaysia",8TV
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/8TV.m3u8
 #EXTINF:-1 tvg-group="Malaysia" tvg-id="Astro Awani" tvg-name="Astro Awani" tvg-language="" tvg-logo="https://i.imgur.com/dLzgBUj.png" tvg-country="MY" tvg-url="https://freeview.github.io/iptv/epg/tv.xml" group-title="Malaysia",Astro Awani
